@@ -1,0 +1,6 @@
+{
+  "name": "المصري للسيارات | EL MASRY CARS",
+  "description": "الموقع الرسمي لمعرض المصري للسيارات - تجارة السيارات المستعملة المتميزة في مصر وإدارة المخزون وخدمات العملاء.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
